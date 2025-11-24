@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="249.162" y1="114.091" x2="249.162" y2="202.589" id="gradient-0" gradientTransform="matrix(2.440467, 0, 0, 2.440467, -407.602108, -271.630104)">
+      <stop offset="0" style="stop-color: rgb(0% 0% 0%)"/>
+      <stop offset="1" style="stop-color: rgb(0% 0% 0%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="249.162" y1="114.091" x2="249.162" y2="202.589" id="gradient-1" gradientTransform="matrix(1.177835, 2.137426, -3.806781, 2.097734, 505.972739, -757.509762)">
+      <stop offset="0" style="stop-color: rgb(33, 107, 255);"/>
+      <stop offset="0.492" style="stop-color: rgb(134, 162, 219);"/>
+      <stop offset="1" style="stop-color: rgb(33, 107, 255);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="249.162" y1="114.091" x2="249.162" y2="202.589" id="gradient-2" gradientTransform="matrix(1.122126, 2.146581, -4.116642, 2.151979, 2422.573916, 139.171455)">
+      <stop offset="0" style="stop-color: rgb(33, 107, 255);"/>
+      <stop offset="0.454" style="stop-color: rgb(134, 162, 219);"/>
+      <stop offset="1" style="stop-color: rgb(33, 107, 255);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="249.162" y1="114.091" x2="249.162" y2="202.589" id="gradient-3" gradientTransform="matrix(2.422181, 0, 0, 2.422181, 1456.50922, 647.538551)">
+      <stop offset="0" style="stop-color: rgb(0% 0% 0%)"/>
+      <stop offset="1" style="stop-color: rgb(0% 0% 0%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="226.435" y1="195.475" x2="226.435" y2="274.473" id="gradient-4" gradientTransform="matrix(2.440467, 0, 0, 2.440467, -407.601445, -271.630675)">
+      <stop offset="0" style="stop-color: rgb(0% 0% 0%)"/>
+      <stop offset="1" style="stop-color: rgb(0% 0% 0%)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="226.435" y1="195.475" x2="226.435" y2="274.473" id="gradient-5" spreadMethod="pad" gradientTransform="matrix(1.169672, 2.141907, -5.347852, 2.920401, 1213.669091, -891.611619)">
+      <stop offset="0" style="stop-color: rgb(33, 107, 254);"/>
+      <stop offset="0.401" style="stop-color: rgb(132, 161, 219);"/>
+      <stop offset="1" style="stop-color: rgb(33, 107, 254);"/>
+    </linearGradient>
+  </defs>
+  <path style="stroke: url(&quot;#gradient-0&quot;); paint-order: fill; fill-rule: nonzero; fill: url(&quot;#gradient-1&quot;); transform-box: fill-box; transform-origin: 384.267% 325.077%; stroke-width: 13px;" d="M 51.401 141.343 C 51.055 139.7 51.962 134.818 58.611 131.074 L 267.022 8.085 C 269.38 6.226 279.584 6.539 281.003 8.085 L 347.198 47.404 C 350.135 49.885 350.418 57.24 347.853 59.202 L 63.199 222.173 C 59.705 223.848 52.278 221.883 52.495 218.46 L 51.401 141.343 Z"/>
+  <path style="stroke: url(&quot;#gradient-4&quot;); fill: url(&quot;#gradient-5&quot;); transform-box: fill-box; transform-origin: 465.531% 261.148%; stroke-width: 13px;" d="M 19.745 348.156 C 18.053 349.684 17.485 355.226 20.569 356.827 L 88.006 395.308 C 90.154 396.48 94.411 399.276 98.743 397.784 C 103.074 396.294 263.466 299.941 263.466 299.941 C 266.905 298.253 270.748 295.249 270.897 291.272 L 271.647 214.296 C 271.617 211.138 270.241 203.156 262.151 206.038 L 19.745 348.156 Z"/>
+  <path style="paint-order: fill; fill-rule: nonzero; fill: url(&quot;#gradient-2&quot;); stroke: url(&quot;#gradient-3&quot;); transform-box: fill-box; transform-origin: -241.389% -100.277%; stroke-width: 13px;" d="M 1912.07 1057.41 C 1911.72 1055.78 1912.63 1050.94 1919.22 1047.22 L 2126.07 925.155 C 2128.4 923.312 2138.55 923.622 2139.95 925.155 L 2205.66 964.183 C 2208.56 966.642 2208.84 973.944 2206.3 975.893 L 1923.78 1137.64 C 1920.31 1139.31 1912.94 1137.35 1913.14 1133.95 L 1912.07 1057.41 Z" transform="matrix(-1, 0, 0, -1, -0.0001, 0.000013)"/>
+</svg>
